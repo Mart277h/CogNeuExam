@@ -1,0 +1,13 @@
+---
+title: "ExamAnalysis"
+author: "Martine Lind Jensen"
+date: "7/5/2020"
+output: html_document
+---
+
+```{r}
+#Load data 
+
+WordFace <- read.csv("WordFace.csv")
+```
+
